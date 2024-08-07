@@ -62,7 +62,7 @@ const Home = () => {
       </div>
       <div className="flex justify-center items-center text-center mt-6 p-3">
         <div className="space-y-4">
-          <a href="https://www.youtube.com/watch?v=ALOdcoWwlKY" className="block bg-gray-900 text-white p-2 rounded-md text-xl font-semibold hover:bg-gray-600">Último episódio</a>
+          <a href="https://www.youtube.com/watch?v=83SyyaLQdNo" className="block bg-gray-900 text-white p-2 rounded-md text-xl font-semibold hover:bg-gray-600">Último episódio</a>
           <a href="https://www.instagram.com/devaneioshow" className="block bg-gray-900 text-white p-2 rounded-md text-xl font-semibold hover:bg-gray-600">Instagram</a>
           <a href="https://livepix.gg/devaneioshow" className="block bg-gray-900 text-white p-2 rounded-md text-xl font-semibold hover:bg-gray-600">Pix do ❤️</a>
           <a href="mailto:caixa@devaneioshow.com" className="block bg-gray-900 text-white p-2 rounded-md text-xl font-semibold hover:bg-gray-600">Mande Um Depoimento</a>
